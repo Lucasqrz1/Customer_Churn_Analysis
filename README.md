@@ -1,6 +1,6 @@
 # 📊 Telco Customer Churn Analysis / Análise de Churn de Clientes de Telecomunicações
 
-## 🇺🇸 Project Overview
+## Project Overview
 Exploratory Data Analysis (EDA) focused on understanding customer churn behavior in a telecommunications company.  
 The goal is to identify which factors most influence cancellations and extract actionable insights for customer retention.
 
@@ -15,7 +15,7 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 ---
 
-## 🇧🇷 Visão Geral do Projeto
+## Visão Geral do Projeto
 Análise Exploratória de Dados (EDA) voltada para entender o comportamento de cancelamento de clientes em uma empresa de telecomunicações.  
 O objetivo é identificar os fatores que mais influenciam o churn e gerar insights para estratégias de retenção.
 
